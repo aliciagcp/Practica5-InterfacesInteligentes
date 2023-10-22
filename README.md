@@ -15,3 +15,7 @@ Este script de Unity, llamado **GazeEvent**, maneja eventos de mirada en el cont
 
 - [Script del balón](/scripts/BallThrow.cs):
 Este script de Unity, llamado **BallThrow**, se encarga de controlar el comportamiento de un objeto en el juego en respuesta a colisiones. Cuando el objeto colisiona con otros objetos en la escena y el nombre del objeto con el que colisiona es "basketball_court:ground 1" o "basketball_court:court", el objeto vuelve a su posición inicial. La posición inicial del objeto se guarda en la variable privada **_startingPosition**.
+
+Vista en el dispositivo Android:
+
+![Vista Android](/gif/Screen_CardBoard.gif)
