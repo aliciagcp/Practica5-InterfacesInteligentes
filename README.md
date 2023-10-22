@@ -2,7 +2,7 @@
 ## Escenas Cardboard
 ### Alicia Guadalupe Cruz Pérez
 
-Se ha realizado la siguiente escena en unity:
+Se ha creado un proyecto Cardboard en Unity, experimentando con la interacción del gazet:
 
 ![Escena Unity](/gif/cardBoard_basket.gif)
 
